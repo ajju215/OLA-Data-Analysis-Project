@@ -1,5 +1,6 @@
 Create Database Ola;
 Use Ola;
+#before using show tables command either insert data using the command like "load DATA INFILE" or manually.
 show tables;
 
 
