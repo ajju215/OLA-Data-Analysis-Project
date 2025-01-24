@@ -20,3 +20,14 @@ Run the SQL queries in the SQL-Queries folder to extract insights.
 Download the .pbix file from the PowerBI-Dashboards folder.
 
 Open it in Power BI Desktop to explore the visualizations.
+
+#Insights Gained
+
+Understanding booking and cancellation trends.
+
+Analyzing customer and driver behavior through ratings.
+
+Identifying top-performing customers and vehicle types.
+
+Evaluating revenue by payment methods and ride categories.
+
